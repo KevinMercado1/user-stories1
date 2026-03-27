@@ -1,6 +1,6 @@
 from add_product import add_product
 from calculate_total import calculate_total
-from show_inventory import show_inventory
+from Show_inventory import show_inventory
 
 database = []
 
